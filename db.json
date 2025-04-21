@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "name": "Asus",
+      "price": 100,
+      "description": "This is the first product",
+      "product": "laptop"
+    },
+    {
+      "id": 2,
+      "name": "Samsung",
+      "price": 200,
+      "description": "This is the second product",
+      "product": "phone"
+    },
+    {
+      "id": 3,
+      "name": "Apple",
+      "price": 300,
+      "description": "This is the third product",
+      "product": "macbook"
+    }
+]
